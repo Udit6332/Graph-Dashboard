@@ -1,0 +1,28 @@
+.chartContainer {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.chartContainer h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.chartContainer h3 .info-icon {
+    margin-left: 5px;
+    font-size: 0.8em;
+    cursor: pointer;
+}
+
+.pie-total {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    font-weight: bold;
+
+}
