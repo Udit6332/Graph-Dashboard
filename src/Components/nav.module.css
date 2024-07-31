@@ -1,0 +1,14 @@
+#Navbar{
+    
+    height: 15px;
+    margin: 10px;
+    padding-left: 15px;
+   
+}
+#Navbar>p{
+    border: 1px solid black;
+    width: 100px;
+    padding: 10px;
+    color: purple;
+    position: absolute;
+}
